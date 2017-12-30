@@ -3,5 +3,10 @@
   "private": true,
   "dependencies": {
     "jquery-ujs": "^1.2.2"
-  }
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:mervyns/alpha-blog.git",
+  "author": "mervyn <mervyns@gmail.com>",
+  "license": "MIT"
 }
